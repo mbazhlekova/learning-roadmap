@@ -10,7 +10,7 @@ This a central place to keep track of what I'm learning to become a full stack d
 
 Udemy Courses
 
-## What I want to learn
+## What I want to learn 🏫
 
 - Java 
 - Spring Framework 
@@ -21,9 +21,16 @@ Udemy Courses
 - TypeScript
 - Computer Science concepts
 
-## In Progress
+## In Progress 🚧
 
 - [ ] Introduction to Computer Science - CS50
 - [ ] Udemy - Complete Java Masterclass
+
+## Upcoming 🔮
+
+- [ ] Udemy - Spring & Hibernate for Beginners
+- [ ] How to Code: Simple Data
+- [ ] Udemy - The Complete SQL Bootcamp
 - [ ] Project - API for a poll making app using Spring + Hibernate + JPA + PostgreSQL
 - [ ] Project - UI for poll making app using React + MobX + TypeScript
+
