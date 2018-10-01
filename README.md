@@ -17,7 +17,7 @@ Udemy
 - Learn to write APIs with Java (Spring + JPA + Hibernate)
 - Learn SQL with PostgreSQL
 - Learn GraphQL
-- Learn TypeScript
+- ~~Learn TypeScript~~ (got lucky and inherited a TypeScript project at work)
 - Refresh and improve that CS knowledge
 
 ## The Plan 📖
