@@ -1,6 +1,6 @@
 # Learning Roadmap 🗺️
 
-This a central place to keep track of what I'm learning to become a full stack developer. My main focus is on learning backend development with Java and improve my computer science knowledge.
+This a central place to keep track of what I'm learning to become a full stack developer. My main focus is on learning best practices of backend web development with Java/Spring and PostgreSQL.
 
 ## Resources 🎒
 
@@ -21,6 +21,10 @@ Udemy
 - Refresh and improve that CS knowledge
 
 ## The Plan 📖
+
+## In Progress 🚧
+
+Course: Complete Java Masterclass
 
 ## Tier 1 - getting started
 
