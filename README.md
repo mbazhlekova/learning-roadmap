@@ -22,6 +22,8 @@ Udemy
 
 ## The Plan 📖
 
+👉 [Plan Here](Plan.md) 👈
+
 ## In Progress 🚧
 
 Course: Complete Java Masterclass
