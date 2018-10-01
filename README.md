@@ -27,3 +27,7 @@ Udemy
 ## In Progress 🚧
 
 Course: Complete Java Masterclass
+
+## Completed ✅
+
+- [x] Course: Introduction to Computer Science - CS50
