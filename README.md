@@ -1,6 +1,8 @@
 # Learning Roadmap 🗺️
 
-This a central place to keep track of what I'm learning to become a full stack developer. My main focus is on learning best practices of backend web development with Java/Spring and PostgreSQL.
+This a central place to keep track of what I'm learning to become a full stack developer.
+
+I'm focused on becoming an overall better developer by improving my knowledge of computer science and backend web development.
 
 ## Resources 🎒
 
@@ -14,11 +16,13 @@ Udemy
 
 ## Goals 🏫
 
-- Learn to write APIs with Java (Spring + JPA + Hibernate)
+- Improve overall knowledge of web development
+- Learn API design and best practices (currently with Node.js)
 - Learn SQL with PostgreSQL
 - Learn GraphQL
 - ~~Learn TypeScript~~ (got lucky and inherited a TypeScript project at work)
 - Refresh and improve that CS knowledge
+- Explore Python and Golang
 
 ## The Plan 📖
 
@@ -26,7 +30,7 @@ Udemy
 
 ## In Progress 🚧
 
-Course: Complete Java Masterclass
+Course: Introduction to Computer Science and Programming using Python
 
 ## Completed ✅
 

@@ -1,17 +1,11 @@
 ## Tier 1 - getting started
 
 - [x] Course: Introduction to Computer Science - CS50 (through lecture 6)
-- [ ] Course: Complete Java Masterclass (in progress 🚧)
+- [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 - [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc)
-- [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
-- [ ] Book: [Introducing Java 8](http://www.oreilly.com/programming/free/introducing-java-8.csp)
-- [ ] Course: Spring & Hibernate for Beginners
-- [ ] Project: [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html) Work through all of the tutorials
-- [ ] Project: [Spring](http://spring.io/guides) Work through each of the Spring.io guides.
 - [ ] Course: The Complete SQL Bootcamp
 - [ ] Book: JavaScript Allongé, the "Six" Edition
-- [ ] Project: API using Spring + Hibernate + JPA + PostgreSQL
-- [ ] Project: Add GraphQL to API
+- [ ] Project: API using Node.js + GraphQL + TypeScript + PostgreSQL (with authentication)
 - [ ] Project: UI for API using React + TypeScript
 
 ## Tier 2 - develop more expertise
@@ -28,8 +22,6 @@
 - [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 - [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [ ] Book: [Java Structures](http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf)
-- [ ] Book: [Docker for Java Developers](http://www.oreilly.com/programming/free/docker-for-java-developers.csp)
 - [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ] Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 - [ ] Docs: [Kotlin](https://kotlinlang.org/docs/reference/) Work though all Reference and Tutorials
