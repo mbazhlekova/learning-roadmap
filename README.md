@@ -35,6 +35,7 @@ Udemy
 ## In Progress 🚧
 
 Course: Introduction to Computer Science and Programming using Python
+
 Book: Setting Up ES6
 
 ## Completed ✅
