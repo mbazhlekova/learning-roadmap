@@ -2,8 +2,8 @@
 
 - [x] Course: Introduction to Computer Science - CS50 (through lecture 6)
 - [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) 🚧
-- [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)🚧
-- [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc)
+- [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read) 🚧
+- [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc) 🚧
 - [ ] Course: The Complete SQL Bootcamp
 - [ ] Book: JavaScript Allongé, the "Six" Edition
 - [ ] Project: API using Node.js + GraphQL + TypeScript + PostgreSQL (with authentication)
