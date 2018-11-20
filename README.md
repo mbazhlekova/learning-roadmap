@@ -36,6 +36,11 @@ Udemy
 
 👉 [Plan Here](Plan.md) 👈
 
+## Points 🎲
+
+[2018](2018-Speedstudy.md) - 1215
+[2019](2019-Speedstudy.md) - 0
+
 ## In Progress 🚧
 
 Course: Introduction to Computer Science and Programming using Python
