@@ -4,6 +4,10 @@ This a central place to keep track of what I'm learning to become a full stack d
 
 I'm focused on becoming an overall better developer by improving my knowledge of computer science and backend web development.
 
+I'm tracking my progress [speedstudy](https://github.com/P1xt/speedstudy) style by assigning points to each activity and seeing how many points I can rack up by the end of the year.
+
+[Speedstudy Rules](SpeedstudyRules.md)
+
 ## Useful Links
 
 [Where to start with backend development?](https://www.reddit.com/r/cscareerquestions/comments/9k46ub/where_to_start_with_backend_development/)
