@@ -30,7 +30,7 @@ Udemy
 - Learn GraphQL
 - ~~Learn TypeScript~~ (got lucky and inherited a TypeScript project at work)
 - Refresh and improve that CS knowledge
-- Explore Python and Golang
+- Learn Java & Spring
 
 ## The Plan 📖
 
