@@ -20,17 +20,17 @@ I'm tracking my progress [speedstudy](https://github.com/P1xt/speedstudy) style 
 
 [OSSU](https://github.com/ossu/computer-science)
 
-Udemy
+[Udemy](https://www.udemy.com)
 
 ## Goals 🏫
 
 - Improve overall knowledge of web development
-- Learn API design and best practices (currently with Node.js)
+- Learn API design and best practices (with Node.js & Java-Spring)
 - Learn SQL with PostgreSQL
 - Learn GraphQL
 - ~~Learn TypeScript~~ (got lucky and inherited a TypeScript project at work)
 - Refresh and improve that CS knowledge
-- Learn Java & Spring
+- Learn Object Oriented Programming Design & best practices
 
 ## The Plan 📖
 
@@ -44,7 +44,7 @@ Udemy
 
 ## In Progress 🚧
 
-Course: Introduction to Computer Science and Programming using Python
+Course: ☕ Java Programming Masterclass for Software Developers
 
 Book: Setting Up ES6
 

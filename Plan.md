@@ -1,8 +1,9 @@
 ## Tier 1 - getting started
 
 - [x] Course: Introduction to Computer Science - CS50 (through lecture 6)
-- [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) 🚧
+- [ ] Course: [Java Programming Masterclass for Software Developers](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/content) 🚧
 - [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read) 🚧
+- [ ] Course: [Getting Sassy with Sass](http://www.sassshop.com/#/)
 - [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc) 🚧
 - [ ] Course: The Complete SQL Bootcamp
 - [ ] Book: JavaScript Allongé, the "Six" Edition
