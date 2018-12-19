@@ -7,8 +7,10 @@
 - [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc) 🚧
 - [ ] Course: The Complete SQL Bootcamp
 - [ ] Book: JavaScript Allongé, the "Six" Edition
-- [ ] Project: API using Node.js + GraphQL + TypeScript + PostgreSQL (with authentication)
-- [ ] Project: UI for API using React + TypeScript
+- [ ] Project: API using (Java + Spring Boot + Hibernate + JPA + PostgreSQL (with authentication))
+- [ ] Project: Add GraphQL to API
+- [ ] Project: UI for API using React + TypeScript + Apollo Client + React Testing Library
+- [ ] Project: Setup CI for project
 
 ## Tier 2 - develop more expertise
 

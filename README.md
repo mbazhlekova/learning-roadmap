@@ -25,12 +25,12 @@ I'm tracking my progress [speedstudy](https://github.com/P1xt/speedstudy) style 
 ## Goals 🏫
 
 - Improve overall knowledge of web development
-- Learn API design and best practices (with Node.js & Java-Spring)
+- Learn API design and best practices (with Java + Spring)
 - Learn SQL with PostgreSQL
 - Learn GraphQL
-- ~~Learn TypeScript~~ (got lucky and inherited a TypeScript project at work)
 - Refresh and improve that CS knowledge
 - Learn Object Oriented Programming Design & best practices
+- Play with Golang
 
 ## The Plan 📖
 
