@@ -1,54 +1,6 @@
-# Learning Roadmap 🗺️
+# Learning Roadmap
 
-This a central place to keep track of what I'm learning to become a full stack developer.
-
-I'm focused on becoming an overall better developer by improving my knowledge of computer science and backend web development.
-
-I'm tracking my progress [speedstudy](https://github.com/P1xt/speedstudy) style by assigning points to each activity and seeing how many points I can rack up by the end of the year.
-
-[Speedstudy Rules](SpeedstudyRules.md)
-
-## Useful Links
-
-[Where to start with backend development?](https://www.reddit.com/r/cscareerquestions/comments/9k46ub/where_to_start_with_backend_development/)
-
-## Resources 🎒
-
-[P1xt's CS - Java Focus Guide](https://github.com/mbazhlekova/p1xt-guides/blob/master/cs-java-focus.md)
-
-[P1xt's CS - Web Development Guide](https://github.com/P1xt/p1xt-guides/blob/master/cs-wd.md)
-
-[OSSU](https://github.com/ossu/computer-science)
-
-[Udemy](https://www.udemy.com)
-
-## Goals 🏫
-
-- Improve overall knowledge of web development
-- Learn API design and best practices
-- Learn SQL with PostgreSQL
-- Learn GraphQL
-- Refresh and improve that CS knowledge
-- Learn Object Oriented Programming Design & best practices
-- Play with Golang
-
-## The Plan 📖
-
-👉 [Plan Here](Plan.md) 👈
-
-## Points 🎲
-
-[2018](2018-Speedstudy.md) - 1215
-
-[2019](2019-Speedstudy.md) - 0
-
-## In Progress 🚧
-
-Project: [Take Home Projects - Build a Voting App](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-voting-app)
-
-Book: Setting Up ES6
-
-## Completed ✅
+This a central place to keep track of what I'm learning to become a better software engineer.
 
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -63,3 +15,8 @@ Book: Setting Up ES6
 - [x] Project: Portfolio from the frontend section of FCC
 - [x] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [x] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+- [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [ ] Project: Personal portfolio website using Gatsby.js
+- [ ] Course: Pluralsight: node.js path
+- [ ] Course: Node.js: Advanced concepts
+- [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc)
