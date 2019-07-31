@@ -16,7 +16,10 @@ This a central place to keep track of what I'm learning to become a better softw
 - [x] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [x] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 - [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
-- [ ] Project: Personal portfolio website using Gatsby.js
-- [ ] Course: Pluralsight: node.js path
-- [ ] Course: Node.js: Advanced concepts
+- [ ] Project: Personal portfolio & blog website using Gatsby.js
+- [ ] Course: [Pluralsight: node.js path](https://app.pluralsight.com/paths/skills/node-js)
+- [ ] Course: [Node.js: Advanced concepts](https://www.udemy.com/advanced-node-for-developers/)
+- [ ] Course: [The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/)
+- [ ] Course: [Go: The Complete Developer's Guide](https://www.udemy.com/go-the-complete-developers-guide/)
+- [ ] Course: [Web Development with Go](https://www.udemy.com/go-programming-language/)
 - [ ] Practice: 20 "Easy" problems from (CodeWars, Leetcode, Hackerrank, etc)
